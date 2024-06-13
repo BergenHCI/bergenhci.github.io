@@ -1,6 +1,4 @@
-
 ---
-layout: home
 title: HCI Research Group
 subtitle: 
 ---
