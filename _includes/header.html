@@ -1,4 +1,4 @@
-<nav class="navbar navbar-dark bg-dark">
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <div class="container-fluid">
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggler" aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -16,7 +16,7 @@
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown{{item.link}}">
                         {% for subitem in item.dropdown %}
                         <li>
-                            <a class="dropdown-item" href="{{ subitem.link | relative_url }}"class="{% if subitem.link == page.url %}active{% endif %}">{{ subitem.name }}</a>
+                            <a class="dropdown-item" href="{{ subitem.link | relative_url }}" {% if item.link == page.url %}aria-current="page"{% endif %}>{{ subitem.name }}</a>
                         </li>
                         {% endfor %}
                       <li><a class="dropdown-item" href="#">Action</a></li>
@@ -24,60 +24,12 @@
                 </li>
                 {% else %}
                 <li class="nav-item">
-                    <a class="nav-link {% if item.link == page.url %}active{% endif %}" aria-current="page" href="{{ item.link | relative_url }}">{{ item.name }}</a>
+                    <a class="nav-link" {% if item.link == page.url %}aria-current="page"{% endif %}  href="{{ item.link | relative_url }}">{{ item.name }}</a>
                 </li>
                 {% endif %}
         {% endfor %}
         </ul>
         </div>
         {% endif %}
-
-        <div class="collapse navbar-collapse" id="navbarToggler">
-            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="#">Home</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#">Link</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
-                </li>
-            </ul>
-        </div>
-    </div>
-</nav>
-<nav class="navbar is-primary" >
-    <div class="container">
-        <!-- <div class="navbar-brand">
-            <a href="{{ site.baseurl }}/" class="navbar-item">
-                {{ site.title }}
-            </a>
-            <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navMenu">
-                <span aria-hidden="true"></span>
-                <span aria-hidden="true"></span>
-                <span aria-hidden="true"></span>
-            </a>
-        </div> -->
-        <div class="navbar" id="navMenu">
-            {% if site.data.navigation %}
-            {% for item in site.data.navigation %}
-                {% if item.dropdown %}
-                <div class="dropdown">
-                    <button class="dropbtn">{{ item.name }} 
-                        <i class="fa fa-caret-down"></i>
-                    </button>
-                    <div class="dropdown-content">
-                        {% for subitem in item.dropdown %}
-                        <a href="{{ subitem.link | relative_url }}" class="{% if subitem.link == page.url %}is-active{% endif %}">{{ subitem.name }}</a>
-                        {% endfor %}
-                    </div>
-                </div>
-                {% else %}
-                <a href="{{ item.link | relative_url }}" class="{% if item.link == page.url %}is-active{% endif %}">{{ item.name }}</a>
-                {% endif %}
-            {% endfor %}
-            {% endif %}
-        </div>
     </div>
 </nav>
