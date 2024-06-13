@@ -1,5 +1,5 @@
 
-## Description
+## Workshop: Designing with AI at NordiCHI2024 (Uppsala, Sweden)
 
 Can AI replace or augment human capabilities in design? Recent discussions propose that AI-based tools could play significant roles in the interaction process. These tools could specify user contexts and requirements and even generate design solutions in both textual and graphical forms. However, using AI in creative efforts introduces complexities such as content biases and creativity limitations, meaning, AI may require significant human oversight and may not fully substitute human creativity and intuition.
 
