@@ -19,6 +19,6 @@ members:
 
 {% if page.members %}
 {% for member in page.members %}
-    {% include member_card.html member=member %}
+    {% include member_card.html member=member | markdownify %}
 {% endfor %}
 {% endif %}
