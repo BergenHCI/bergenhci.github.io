@@ -1,5 +1,6 @@
 ---
 title: Members
+
 members:
     - name: "Miroslav Bachinski"
       photo: ""
@@ -21,7 +22,7 @@ members:
 {% for member in page.members %}
 
 <div class="card" style="width: 18rem;">
-    <img src="{{member.photo}}" class="card-img-top" alt="...">
+    <img src="{{member.photo}}" class="card-img-top" alt="{{member.name}}">
     <div class="card-body">
       <h5 class="card-title">{{member.name}}</h5>
       <p class="card-text">{{member.desc}}</p>
