@@ -1,3 +1,52 @@
+<nav class="navbar navbar-dark bg-dark">
+    <div class="container-fluid">
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggler" aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        {% if site.data.navigation %}
+        <div class="collapse navbar-collapse" id="navbarToggler">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        {% for item in site.data.navigation %}
+                {% if item.dropdown %}
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown{{item.link}}" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                      {{item.name}}
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown{{item.link}}">
+                        {% for subitem in item.dropdown %}
+                        <li>
+                            <a class="dropdown-item" href="{{ subitem.link | relative_url }}"class="{% if subitem.link == page.url %}active{% endif %}">{{ subitem.name }}</a>
+                        </li>
+                        {% endfor %}
+                      <li><a class="dropdown-item" href="#">Action</a></li>
+                    </ul>
+                </li>
+                {% else %}
+                <li class="nav-item">
+                    <a class="nav-link {% if item.link == page.url %}active{% endif %}" aria-current="page" href="{{ item.link | relative_url }}">{{ item.name }}</a>
+                </li>
+                {% endif %}
+        {% endfor %}
+        </ul>
+        </div>
+        {% endif %}
+
+        <div class="collapse navbar-collapse" id="navbarToggler">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="#">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Link</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
 <nav class="navbar is-primary" >
     <div class="container">
         <!-- <div class="navbar-brand">
