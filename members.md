@@ -1,7 +1,5 @@
 ---
 title: Members
-subtitle: Group members
-permalink: /members
 ---
 
 ## Researchers
