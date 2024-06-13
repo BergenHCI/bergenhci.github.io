@@ -10,27 +10,25 @@
                 <span aria-hidden="true"></span>
             </a>
         </div> -->
-        <div class="navbar-menu" id="navMenu">
-            <div class="navbar-start">
-                {% if site.data.navigation %}
-                {% for item in site.data.navigation %}
-                    {% if item.dropdown %}
-                    <div class="dropdown">
-                        <button class="dropbtn">{{ item.name }} 
-                          <i class="fa fa-caret-down"></i>
-                        </button>
-                        <div class="dropdown-content">
-                            {% for subitem in item.dropdown %}
-                            <a href="{{ subitem.link | relative_url }}" class="{% if subitem.link == page.url %}is-active{% endif %}">{{ subitem.name }}</a>
-                            {% endfor %}
-                        </div>
-                      </div> 
-                    {% else %}
-                    <a href="{{ item.link | relative_url }}" class="{% if item.link == page.url %}is-active{% endif %}">{{ item.name }}</a>
-                    {% endif %}
-                {% endfor %}
+        <div class="navbar" id="navMenu">
+            {% if site.data.navigation %}
+            {% for item in site.data.navigation %}
+                {% if item.dropdown %}
+                <div class="dropdown">
+                    <button class="dropbtn">{{ item.name }} 
+                        <i class="fa fa-caret-down"></i>
+                    </button>
+                    <div class="dropdown-content">
+                        {% for subitem in item.dropdown %}
+                        <a href="{{ subitem.link | relative_url }}" class="{% if subitem.link == page.url %}is-active{% endif %}">{{ subitem.name }}</a>
+                        {% endfor %}
+                    </div>
+                </div>
+                {% else %}
+                <a href="{{ item.link | relative_url }}" class="{% if item.link == page.url %}is-active{% endif %}">{{ item.name }}</a>
                 {% endif %}
-            </div>
+            {% endfor %}
+            {% endif %}
         </div>
     </div>
 </nav>
