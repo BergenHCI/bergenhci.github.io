@@ -1,5 +1,5 @@
 
-## Workshop: Designing with AI at NordiCHI2024 (Uppsala, Sweden)
+# Workshop: Designing with AI at NordiCHI2024 (Uppsala, Sweden)
 
 Can AI replace or augment human capabilities in design? Recent discussions propose that AI-based tools could play significant roles in the interaction process. These tools could specify user contexts and requirements and even generate design solutions in both textual and graphical forms. However, using AI in creative efforts introduces complexities such as content biases and creativity limitations, meaning, AI may require significant human oversight and may not fully substitute human creativity and intuition.
 
@@ -10,13 +10,13 @@ Our workshop aims to delve deeper into the potential and practicality of LLMs in
 - How well LLMs can represent user experiences and interpret complex problem spaces.
 - The feasibility of LLMs in emulating specific user needs across diverse groups.
 
-**Workshop Themes:**
+## Workshop Themes
 
 - **AI in Design Practice:** Share prototypes, tools, and design ideas. Discuss empirical research and anecdotal experiences with AI-based tools in UX design practice.
 - **Beyond Design:** Contributions from fields like writing, music composition, video editing, and illustrating are welcome, reflecting on how AI-based tools are shaping creative processes across domains.
 - **Declarative Design:** We will introduce our AI tool, LLMUX, which employs GPT-4 to translate user descriptions into design artefacts. The tool embodies our concept of "declarative design," where designers dictate goals and AI crafts the solutions, marking a shift from direct creation to a more editorial or directorial role of a designer.
 
-**Engagement Opportunities:**
+## Engagement Opportunities
 
 - **Prototype Demonstrations:** Participants can present their AI-based tools and prototypes and discuss their development and integration challenges.
 - **Panel Discussions:** Engage with experts debating the future of AI in design and its impact on traditional roles and processes.
