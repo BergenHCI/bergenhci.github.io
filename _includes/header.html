@@ -16,15 +16,14 @@
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown{{item.link}}">
                         {% for subitem in item.dropdown %}
                         <li>
-                            <a class="dropdown-item" href="{{ subitem.link | relative_url }}" {% if item.link == page.url %}aria-current="page"{% endif %}>{{ subitem.name }}</a>
+                            <a class="dropdown-item {% if item.link == page.url %}active{% endif %}" href="{{ subitem.link | relative_url }}" aria-current="page">{{ subitem.name }}</a>
                         </li>
                         {% endfor %}
-                      <li><a class="dropdown-item" href="#">Action</a></li>
                     </ul>
                 </li>
                 {% else %}
                 <li class="nav-item">
-                    <a class="nav-link" {% if item.link == page.url %}aria-current="page"{% endif %}  href="{{ item.link | relative_url }}">{{ item.name }}</a>
+                    <a class="nav-link" class="{% if item.link == page.url %}active{% endif %}" aria-current="page"  href="{{ item.link | relative_url }}">{{ item.name }}</a>
                 </li>
                 {% endif %}
         {% endfor %}
