@@ -7,5 +7,7 @@
   dropdown:
     - name: Designing with AI 2024
       link: /ws/designing_with_ai
+    - name: "HAID: Human-AI Interaction for Dementia Care"
+      link: /ws/haid
 - name: Repositories
   link: repositories
