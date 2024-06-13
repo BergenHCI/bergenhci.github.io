@@ -4,5 +4,8 @@
   link: /members
 - name: Events
   link: /events
+  dropdown:
+    - name: Designing with AI 2024
+      link: /ws/designing_with_ai
 - name: Repositories
   link: repositories
