@@ -1,6 +1,6 @@
 ---
 title: Members
-memebers:
+members:
     - name: "Miroslav Bachinski"
       photo: ""
       desc: ""
