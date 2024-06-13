@@ -1,12 +1,11 @@
 ---
-layout: page
 title: Members
 subtitle: Group members
 permalink: /members
 ---
 
-# Researchers
+## Researchers
 
-# Doctoral Students
+## Doctoral Students
 
-# Master Students
+## Master Students
