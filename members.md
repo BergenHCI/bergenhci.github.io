@@ -34,8 +34,11 @@ members:
       <h5 class="card-title">{{member.name}}</h5>
       <p class="card-text">{{member.desc}}</p>
       <p class="card-text"><small class="text-muted">
-        {% if member.link %}<a href="{{member.link}}">UiB page</a>{% endif %}
-        {% if member.scholar %}<a href="{{member.scholar}}">Google Scholar</a>{% endif %}
+        {% if member.private_link %}<a href="{{member.private_link}}" target="_blank">Personal Website</a>{% endif %}
+        {% if member.link %}<a href="{{member.link}}" target="_blank">UiB page</a>{% endif %}
+        {% if member.scholar %}<a href="{{member.scholar}}" target="_blank">Google Scholar</a>{% endif %}
+        {% if member.linkedin %}<a href="{{member.linkedin}}" target="_blank">Linkdin</a>{% endif %}
+        {% if member.twitter %}<a href="{{member.twitter}}" target="_blank">Twitter</a>{% endif %}
       </small></p>
     </div>
 </div>
