@@ -10,6 +10,7 @@ members:
       photo: "https://profile.uib.no/sites/default/files/pictures/picture-9765-1557248244.jpg"
       desc: "Frode Guribye is a Professor of Information Science focusing on human-computer interaction and the social implications of information and communication technologies. His research spans different application areas such as technology enhanced learning, computing and mental health and mobile journalism. Across these areas he is doing research through design and empirical investigations aiming to critically and constructively understand the potential and limitations of emerging technologies."
       link: "https://www4.uib.no/en/find-employees/Frode.Guribye"
+      scholar: "https://scholar.google.com/citations?user=R8yaWs0AAAAJ&hl=en"
     - name: "Morten Fjeld"
       photo: "https://profile.uib.no/sites/default/files/pictures/picture-23358-1625046497.jpg"
       desc: "Morten Fjeld is a professor of Human-Computer Interaction at the University of Bergen (Norway) and Chalmers University of Technology (Sweden). His research activities are situated in the field of Human-Computer Interaction with a focus on tangible and tabletop user computing. In 2005, he founded the t2i Interaction Lab at Chalmers, Sweden. He holds a dual MSc degree in applied mathematics from NTNU (Trondheim, Norway) and ENSIMAG (Grenoble, France), and a PhD from ETH (Zurich, Switzerland). In 2002, Morten Fjeld received the ETH Medal for his PhD titled 'Designing for Tangible Interaction'. In 2011, he was a visiting professor at NUS Singapore, in 2016 and 2017 at Tohoku University, Japan, and in 2019 to 2020 at ETH Zurich. Morten Fjeld also has extensive industrial experience in the areas of fluid mechanics, simulators, and user interface design."
@@ -18,6 +19,7 @@ members:
       photo: "https://profile.uib.no/sites/default/files/pictures/picture-383591-1517235439.jpg"
       desc: "I'm a postdoctoral fellow at UiB, interested in tools, processes and practices for media production, including writing, video editing, music production and other forms of media; complex software, software and game development tools and systems; remote work and automation, including AI-assisted instruments."
       link: "https://www4.uib.no/en/find-employees/Pavel.Okopnyi"
+      scholar: "https://scholar.google.com/citations?user=k6DCzvcAAAAJ&hl=en"
 ---
 
 # Group members
@@ -31,9 +33,10 @@ members:
     <div class="card-body">
       <h5 class="card-title">{{member.name}}</h5>
       <p class="card-text">{{member.desc}}</p>
-      {% if member.link %}
-      <p class="card-text"><small class="text-muted"><a href="{{member.link}}">Visit official page</a></small></p>
-      {% endif %}
+      <p class="card-text"><small class="text-muted">
+        {% if member.link %}<a href="{{member.link}}">UiB page</a>{% endif %}
+        {% if member.scholar %}<a href="{{member.scholar}}">Google Scholar</a>{% endif %}
+      </small></p>
     </div>
 </div>
 
