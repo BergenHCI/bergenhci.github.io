@@ -1,6 +1,9 @@
 
 # Workshop: Designing with AI at NordiCHI2024 (Uppsala, Sweden)
 
+* TOC
+{:toc}
+
 Can AI replace or augment human capabilities in design? Recent discussions propose that AI-based tools could play significant roles in the interaction process. These tools could specify user contexts and requirements and even generate design solutions in both textual and graphical forms. However, using AI in creative efforts introduces complexities such as content biases and creativity limitations, meaning, AI may require significant human oversight and may not fully substitute human creativity and intuition.
 
 Our workshop aims to delve deeper into the potential and practicality of LLMs in design. We invite researchers, designers, and practitioners to explore:
@@ -24,6 +27,10 @@ Our workshop aims to delve deeper into the potential and practicality of LLMs in
 
 This workshop is an ideal venue for those interested in the cutting edge of design technology and the evolving interface between human creativity and artificial intelligence. Whether you are developing AI tools or researching their implications, join us to share insights and forge collaborations in redefining creative processes.
 
+## Preliminary plan
+
+TBD
+
 ## Participation
 
 To attend the workshop, submit a position paper (1-4 pages, excluding references) in the ACM format. The paper should present your background and a position statement which reflects the ideas, proposals, prototypes, or applications you would like to present during the workshop. Such contributions may include:
@@ -35,3 +42,4 @@ To attend the workshop, submit a position paper (1-4 pages, excluding references
 - research and design proposals.
 
 **How to submit: TBD**
+
