@@ -10,7 +10,7 @@ title: "Projects"
 
 ## Simple API Server
 
-This repository contains a simplistic example of an API server and client that can be used by students to study client-server architecture, and for further development of prototypes.
+This repository contains a simplistic example of a Python-based API server and a JS client that can be used by students to study client-server architecture, and for further development of prototypes.
 
 [View code](https://github.com/BergenHCI/SimpleAPIServer)
 
