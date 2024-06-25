@@ -15,6 +15,8 @@ body {
 // Using numbers instead of bullets for listing
 #markdown-toc ul {
     list-style: decimal;
+    float: right;
+    margin: 10px;
 }
 
 #markdown-toc {
