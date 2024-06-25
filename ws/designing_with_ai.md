@@ -1,5 +1,6 @@
 
 # Workshop: Designing with AI at NordiCHI2024 (Uppsala, Sweden)
+{: .no_toc}
 
 * TOC
 {:toc}
