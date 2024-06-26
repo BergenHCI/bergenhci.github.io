@@ -20,3 +20,12 @@ body {
     list-style: decimal;
     display: inline-block;
 }
+
+.nav-link a {
+    color: white;
+}
+
+.nav-link .active a {
+    text-decoration: underline;
+    text-decoration-thickness: 3px;
+}
