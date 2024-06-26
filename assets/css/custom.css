@@ -16,11 +16,11 @@ body {
     margin: 10px;
 }
 
-.nav-link a {
+.nav-link {
     color: white;
 }
 
-.nav-link .active a {
+.nav-link.active {
     text-decoration: underline;
     text-decoration-thickness: 3px;
 }
