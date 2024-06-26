@@ -7,17 +7,13 @@ body {
     font-weight: bold;
 }
 
-#markdown-toc ul {
-    list-style: decimal;
-    float: right;
-    margin: 10px;
-}
-
 #markdown-toc {
     border: 1px solid #aaa;
     padding: 1.5em;
     list-style: decimal;
     display: inline-block;
+    float: right;
+    margin: 10px;
 }
 
 .nav-link a {
