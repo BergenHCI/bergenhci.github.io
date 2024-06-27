@@ -28,13 +28,26 @@ Our workshop aims to delve deeper into the potential and practicality of LLMs in
 
 This workshop is an ideal venue for those interested in the cutting edge of design technology and the evolving interface between human creativity and artificial intelligence. Whether you are developing AI tools or researching their implications, join us to share insights and forge collaborations in redefining creative processes.
 
-## Preliminary plan
+## Preliminary schedule
 
-TBD
+* 09:00 - **Workshop Introduction**: Introduction of the workshop’s topic and goal and a short demonstration of the prototype(s) of AI-based tools for interaction design
+* 09:30 - **Participants’ presentations and demos**: Participants present their research and demonstrate their projects or prototypes, as well as design cases.
+* 10:15 - **Morning break**
+* 10:30 - **Ideation, design, and evaluation**: In groups, participants try out the prototypes, providing feedback to assess their functionality, user experience, and evaluate the produced results. For presented design cases, participants can brainstorm and sketch new AI-based tools.
+* 11:30 - **Coffee break**
+* 12:00 - **Discussion**: in a round table format, participants discuss the practicality of the presented tools, their usefulness and other related topics, such as:
+    - What kind of AI-based tools for designers and other creative workers can we develop?
+    - How can we deal with the inherent biases in LLMs?
+    - How can we assess how well LLMs represent certain groups of users and their needs?
+    - What are the roles of AI-based tools in the creative process?
+    - Do the current theoretical frameworks and concepts capture the interaction between LLMs and designers (or other creative workers) adequately?
+    We will also discuss further publication activity, as we aim to create a publication based on the workshop results.
+* 12:45 - **Workshop ends**
+
 
 ## Participation
 
-To attend the workshop, submit a position paper (1-4 pages, excluding references) in the ACM format. The paper should present your background and a position statement which reflects the ideas, proposals, prototypes, or applications you would like to present during the workshop. Such contributions may include:
+To attend the workshop, submit a short position paper (1-4 pages, excluding references) in the ACM format. The paper should present your background and a position statement which reflects the ideas, proposals, prototypes, or applications you would like to present during the workshop. Such contributions may include:
 
 - sketches and design prototypes,
 - demonstrations of developed tools,
@@ -42,5 +55,7 @@ To attend the workshop, submit a position paper (1-4 pages, excluding references
 - field studies of the use of AI-based tools,
 - research and design proposals.
 
-**How to submit: TBD**
+Accepted submissions will be published online on the workshop website.
+
+**How to submit**: Send your position paper to the email [designing.with.ai.workshop@gmail.com](designing.with.ai.workshop@gmail.com)
 
