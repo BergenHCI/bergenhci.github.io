@@ -30,6 +30,8 @@ This workshop is an ideal venue for those interested in the cutting edge of desi
 
 ## Preliminary schedule
 
+The workshop will take place on the **13th of October** (Sunday), 2024.
+
 * 09:00 - **Workshop Introduction**: Introduction of the workshop’s topic and goal and a short demonstration of the prototype(s) of AI-based tools for interaction design
 * 09:30 - **Participants’ presentations and demos**: Participants present their research and demonstrate their projects or prototypes, as well as design cases.
 * 10:15 - **Morning break**
@@ -57,5 +59,9 @@ To attend the workshop, submit a short position paper (1-4 pages, excluding refe
 
 Accepted submissions will be published online on the workshop website.
 
-**How to submit**: Send your position paper to the email [designing.with.ai.workshop@gmail.com](designing.with.ai.workshop@gmail.com)
+**How to submit**: Send your position paper to the email [designing.with.ai.workshop@gmail.com](mailto:designing.with.ai.workshop@gmail.com?subject=workshop)
+
+## Registration
+
+Please register via the [NordiCHI 2024 Website](https://www.nordichi2024.se)
 
