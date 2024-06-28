@@ -4,7 +4,7 @@ tagline: "HCI Research Group"
 
 show_downloads: false
 
-permalink: /:title/
+permalink: /:title
 
 github:
   is_project_page: false
