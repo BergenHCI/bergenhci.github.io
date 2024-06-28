@@ -43,7 +43,7 @@ The workshop will take place on the **13th of October** (Sunday), 2024.
     - How can we assess how well LLMs represent certain groups of users and their needs?
     - What are the roles of AI-based tools in the creative process?
     - Do the current theoretical frameworks and concepts capture the interaction between LLMs and designers (or other creative workers) adequately?
-    We will also discuss further publication activity, as we aim to create a publication based on the workshop results.
+    *We will also discuss further publication activity, as we aim to create a publication based on the workshop results.*
 * 12:45 - **Workshop ends**
 
 
@@ -59,7 +59,13 @@ To attend the workshop, submit a short position paper (1-4 pages, excluding refe
 
 Accepted submissions will be published online on the workshop website.
 
-**How to submit**: Send your position paper to the email [designing.with.ai.workshop@gmail.com](mailto:designing.with.ai.workshop@gmail.com?subject=workshop)
+## How to submit
+
+Send your position paper to the email [designing.with.ai.workshop@gmail.com](mailto:designing.with.ai.workshop@gmail.com?subject=workshop)
+
+**Submission deadline: 9th of September 2024.**
+
+**Notification of acceptance: 30th of September.**
 
 ## Registration
 
