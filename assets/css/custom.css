@@ -20,7 +20,7 @@ body {
     color: white;
 }
 
-.nav-link.active {
+.nav-link .active {
     text-decoration: underline;
     text-decoration-thickness: 3px;
 }

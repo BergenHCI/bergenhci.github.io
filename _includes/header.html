@@ -24,6 +24,7 @@
                 {% else %}
                 <li class="nav-item">
                     <a class="nav-link{% if item.link == page.url %} active{% endif %}" aria-current="page"  href="{{ item.link | relative_url }}">{{ item.name }}</a>
+                    <!-- {{item.link}} ;;; {{page.url}} -->
                 </li>
                 {% endif %}
         {% endfor %}
