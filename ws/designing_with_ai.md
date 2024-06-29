@@ -21,7 +21,7 @@ We invite researchers, designers, and practitioners to explore:
 
 - **AI in Design Practice:** Share prototypes, tools, and design ideas. Discuss empirical research and anecdotal experiences with AI-based tools in UX design practice.
 - **Beyond Design:** Contributions from fields like writing, music composition, video editing, and illustrating are welcome, reflecting on how AI-based tools are shaping creative processes across domains.
-- **Declarative Design:** We will introduce our AI tool, LLMUX, which employs GPT-4 to translate user descriptions into design artefacts. The tool embodies our concept of "declarative design," where designers dictate goals and AI crafts the solutions, marking a shift from direct creation to a more editorial or directorial role of a designer.
+- **Declarative Design:** We will introduce our AI tool, LLMUX, which employs GPT-4 to translate user descriptions into design artefacts. The tool embodies our concept of *declarative design*, where designers dictate goals and AI crafts the solutions, marking a shift from direct creation to a more editorial or directorial role of a designer.
 
 ## Engagement Opportunities
 
@@ -47,7 +47,6 @@ The workshop will take place on the **13th of October** (Sunday), 2024.
     - How can we assess LLMs representations of certain groups of users and their needs?
     *The discussions and the artifacts will serve as data material for a paper co-authored by the workshop participants.*
 * 12:45 - **Workshop ends**
-
 
 ## Participation
 
