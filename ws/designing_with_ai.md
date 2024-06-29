@@ -5,10 +5,13 @@
 * TOC
 {:toc}
 
-Can AI replace or augment human capabilities in design? Recent discussions propose that AI-based tools could play significant roles in the interaction process. These tools could specify user contexts and requirements and even generate design solutions in both textual and graphical forms. However, using AI in creative efforts introduces complexities such as content biases and creativity limitations, meaning, AI may require significant human oversight and may not fully substitute human creativity and intuition.
+Can AI replace or augment human capabilities in design? Recently, the claim was made that Large Language Models (LLMs) could work as a *database of human experiences* and be a valuable resource in human-centered design processes. If we take this claim at face value it would imply that LLMs could be a proxy for human experiences in terms of representing the needs of future users in an interaction design process. Instead of involving human users, we could then have AI-based tools represent the problem space and create the artifacts, such as personas and scenarios, and in this way replace humans and accounts of their experiences in interaction design. 
 
-Our workshop aims to delve deeper into the potential and practicality of LLMs in design. We invite researchers, designers, and practitioners to explore:
+In this workshop, we want to put this claim to the test. We will engage critically, playfully and constructively to explore the limits and potential of using AI-based tool in interaction design.
 
+We invite researchers, designers, and practitioners to explore:
+
+- The ideas for how to use AI-based tools in interaction design.
 - The development and effectiveness of AI-based design tools.
 - Strategies to mitigate inherent limitations of LLMs.
 - How well LLMs can represent user experiences and interpret complex problem spaces.
@@ -38,12 +41,11 @@ The workshop will take place on the **13th of October** (Sunday), 2024.
 * 10:30 - **Ideation, design, and evaluation**: In groups, participants try out the prototypes, providing feedback to assess their functionality, user experience, and evaluate the produced results. For presented design cases, participants can brainstorm and sketch new AI-based tools.
 * 11:30 - **Coffee break**
 * 12:00 - **Discussion**: in a round table format, participants discuss the practicality of the presented tools, their usefulness and other related topics, such as:
+    - How well do the AI-generated artifacts represent the user needs?
+    - How can we use the AI-based tools in a good way, and how to identify and address the shortcomings and limitations of these tools
     - What kind of AI-based tools for designers and other creative workers can we develop?
-    - How can we deal with the inherent biases in LLMs?
-    - How can we assess how well LLMs represent certain groups of users and their needs?
-    - What are the roles of AI-based tools in the creative process?
-    - Do the current theoretical frameworks and concepts capture the interaction between LLMs and designers (or other creative workers) adequately?
-    *We will also discuss further publication activity, as we aim to create a publication based on the workshop results.*
+    - How can we assess LLMs representations of certain groups of users and their needs?
+    *The discussions and the artifacts will serve as data material for a paper co-authored by the workshop participants.*
 * 12:45 - **Workshop ends**
 
 
