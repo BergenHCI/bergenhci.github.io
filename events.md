@@ -34,7 +34,9 @@ Days: 9 to 12 May 2023
 
 [Read More](https://mediafutures.no/event/bergen-hci-and-visualisation-days-2023/)
 
-### MediaFutures Seminar: Heads-up Computing: Towards the next interaction paradigm with Shengdong Zhao, an Associate Professor at the National University of Singapore
+### MediaFutures Seminar: Heads-up Computing: Towards the next interaction paradigm
+
+A seminar with Shengdong Zhao, an Associate Professor at the National University of Singapore
 
 Interaction paradigms (the style of interaction between humans and computers) can significantly change the way we work and live. However, as much as we are empowered by interaction paradigms, we are also significantly constrained by them. Existing interaction paradigms limits our movements and activities, which can negatively affect our overall well-being. Desktop computing, described as “sitting at a desk, interpreting and manipulating symbols”, isolates human beings from interacting with other human beings and nature. Mobile computing, although free us from the office environment, demands constant eye-and-hand engagement, leading to the notorious phenomenon called “smartphone zombies”. We need a new style of interaction that can better support human activities in nature and with other people as well as reducing cognitive load by blending reactive operations with appropriately designed proactive initiatives that can offer just-in-time assistance. By carefully redesigning and integrating some of the latest technologies, including wearable computing, sensors, voice-based multimodal I/O, data analysis and prediction, and distributed networking, etc, the new Heads-up Computing interaction paradigm can be designed to work seamlessly with our everyday movements and activities. It allows humans to interact with information while engaging in a variety of activities; therefore, facilitates a holistic lifestyle where essential human needs in work and life can be more seamlessly blended and fulfilled.
 
