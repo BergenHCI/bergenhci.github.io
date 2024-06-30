@@ -2,8 +2,10 @@
 title: Our events
 ---
 
+* TOC
+{:toc}
 
-## Upcoming
+## Upcoming Events
 
 ### Workshop: Designing with AI at NordiCHI2024 (13 Oct 2024)
 
