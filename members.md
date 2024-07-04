@@ -20,6 +20,11 @@ members:
       desc: "I'm a postdoctoral fellow at UiB, interested in tools, processes and practices for media production, including writing, video editing, music production and other forms of media; complex software, software and game development tools and systems; remote work and automation, including AI-assisted instruments."
       link: "https://www4.uib.no/en/find-employees/Pavel.Okopnyi"
       scholar: "https://scholar.google.com/citations?user=k6DCzvcAAAAJ&hl=en"
+    - name: "Oda Elise Nordberg"
+      photo: "https://profile.uib.no/sites/default/files/pictures/picture-384606-1603790347.jpg"
+      desc: "In my Ph.D. studies, I am exploring the potential of conversational user interfaces (CUIs), such as chatbots and digital assistants, for engaging with news content. I am focused on future-oriented research methods, like co-speculation, to investigate the opportunities and implications of news interaction through conversational interfaces. Beyond my primary research, I have an interest in universal design, privacy, and mental health."
+      link: "https://www4.uib.no/en/find-employees/Oda.Elise.Nordberg"
+      scholar: "https://scholar.google.com/citations?hl=en&user=slMD2EUAAAAJ"
 ---
 
 # Group members
