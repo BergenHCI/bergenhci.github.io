@@ -61,3 +61,20 @@ Send your position paper to the email [designing.with.ai.workshop@gmail.com](mai
 
 Please register via the [NordiCHI 2024 Website](https://www.nordichi2024.se)
 
+## Workshop organisers
+
+**Pavel Okopnyi** is a postdoctoral fellow at the University of Bergen. His doctoral thesis was dedicated to the topic of collaboration in video editing. His research interests span various topics in HCI and CSCW, including human-AI interaction and collaborative work. He has an engineer's degree and is a seasoned software developer. 
+
+**Frode Guribye** is a professor of Information Science focusing on HCI and the social implications of information and communication technologies. He has wide experience in research and innovation projects across areas such as mental health and journalism. He is doing research through design and empirical investigations, aiming to critically and constructively understand the potential and limitations of emerging technologies such as AI and conversational user interfaces.
+
+**Miroslav Bachinski** is an associate professor in Information Science focusing on data-driven methods for HCI and interaction beyond the desktop. He has experience designing and developing diverse post-desktop interactive systems, as well as with their analysis and modelling. 
+
+**Morten Fjeld** is a professor of Human-Computer Interaction at the University of Bergen (Norway) and Chalmers University of Technology (Sweden). His research activities are situated in the field of Human-Computer Interaction with a focus on tangible and tabletop user computing.
+
+**Daniel Buschek** is a professor of Mobile Intelligent User Interfaces at the University of Bayreuth, Germany. His group works at the intersection of Human-Computer Interaction and AI, exploring interaction with generative models for text and images to shape the future of working with AI tools in a human-centred way.
+
+**Tim Zindulka** is a doctoral researcher in Human-AI Interaction at the University of Bayreuth, Germany. He's part of Daniel Buschek's group, exploring the intersection of HCI and AI, particularly novel document interactions, with a special interest in health topics. He also has prior research experience with VR and physiological data.
+
+**Florian Lehmann** is a doctoral researcher in Human-AI Interaction at the University of Bayreuth, Germany. His research focuses on text editing with language models. He prototypes and studies interactive AI writing tools to explore fundamental concepts in human-AI interaction, such as control and initiative.
+
+**Paulina Becerril Palma** is currently pursuing a Ph.D. in Human-Computer Interaction at the University of Bergen, Norway. She has experience in UX research and program management, having worked with companies like Amazon Web Services and Intel. Her work focuses on extended reality, user experience, and human-centred design.
