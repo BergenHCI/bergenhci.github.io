@@ -18,7 +18,7 @@ We invite researchers, designers, and practitioners to:
 
 We also invite contributions from fields like writing, music composition, video editing, and illustrating are welcome, reflecting on how AI-based tools are shaping creative processes across domains.
 
-We will introduce our AI tool, LLMUX, which employs GPT-4 to translate descriptions of users into design artefacts. The tool embodies our concept of *declarative design*, where designers dictate goals and AI crafts the solutions, marking a shift from direct creation to a more editorial or directorial role of a designer.
+We will demonstate our AI tool that employs GPT-4 to translate descriptions of users into design artefacts. The tool embodies our concept of *declarative design*, where designers dictate goals and AI crafts the solutions, marking a shift from direct creation to a more editorial or directorial role of a designer.
 
 ## Preliminary schedule
 
