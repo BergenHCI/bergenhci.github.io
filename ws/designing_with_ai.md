@@ -39,13 +39,14 @@ The workshop will take place on the **13th of October** (Sunday), 2024.
 
 ## Participation
 
-To attend the workshop, submit a short position paper (1-4 pages, excluding references) in the ACM format. The paper should present your background and a position statement that reflects the ideas, proposals, prototypes, or applications you would like to present during the workshop. Such contributions may include:
+To attend the workshop, submit a short position paper (no more than 4 pages, excluding references) in the ACM format. The paper should outline your background and a position statement that reflects the ideas, proposals, prototypes, or applications you would like to present and discuss during the workshop. Such contributions may include:
 
-- sketches and design prototypes,
+- sketches and prototypes of AI-based tools for design,
 - demonstrations of developed tools,
 - evaluation or trial reports,
 - field studies of the use of AI-based tools,
-- research and design proposals.
+- research and design proposals,
+- design cases which could benefit from AI-based tools.
 
 Accepted submissions will be published online on the workshop website.
 
