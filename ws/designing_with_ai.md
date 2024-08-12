@@ -60,7 +60,7 @@ Send your position paper to the email [designing.with.ai.workshop@gmail.com](mai
 
 ## Registration
 
-Please register via the [NordiCHI 2024 Website](https://www.nordichi2024.se)
+Please register via the [NordiCHI 2024 Website](https://www.nordichi2024.se). Use workshop code for registration: **WS15**.
 
 ## Workshop organisers
 
