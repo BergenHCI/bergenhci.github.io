@@ -27,7 +27,7 @@ members:
       scholar: "https://scholar.google.com/citations?hl=en&user=slMD2EUAAAAJ"
     - name: "Arngeir Berge"
       photo: "https://www.uib.no/sites/w3.uib.no/files/styles/content_main/public/media/arbe.jpg?itok=XdQf4aXC"
-      desc: "I'm doing a PhD on collaboration between humans and artificial intelligence. More specifically, I'm looking at how artificial intelligence can call handlers during emergency calls with situational awareness, documentation, decisions, and more."
+      desc: "I'm doing a PhD on collaboration between humans and artificial intelligence. More specifically, I'm looking at how artificial intelligence can assist call handlers during emergency calls with situational awareness, documentation, decisions, and more."
       link: "https://www4.uib.no/finn-ansatte/Arngeir.Berge"
       scholar: "https://scholar.google.com/citations?user=5promGYAAAAJ&hl=en"
 ---
