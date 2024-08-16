@@ -25,6 +25,11 @@ members:
       desc: "In my Ph.D. studies, I am exploring the potential of conversational user interfaces (CUIs), such as chatbots and digital assistants, for engaging with news content. I am focused on future-oriented research methods, like co-speculation, to investigate the opportunities and implications of news interaction through conversational interfaces. Beyond my primary research, I have an interest in universal design, privacy, and mental health."
       link: "https://www4.uib.no/en/find-employees/Oda.Elise.Nordberg"
       scholar: "https://scholar.google.com/citations?hl=en&user=slMD2EUAAAAJ"
+    - name: "Arngeir Berge"
+      photo: "https://www.uib.no/sites/w3.uib.no/files/styles/content_main/public/media/arbe.jpg?itok=XdQf4aXC"
+      desc: "I'm doing a PhD on collaboration between humans and artificial intelligence. More specifically, I'm looking at how artificial intelligence can call handlers during emergency calls with situational awareness, documentation, decisions, and more."
+      link: "https://www4.uib.no/finn-ansatte/Arngeir.Berge"
+      scholar: "https://scholar.google.com/citations?user=5promGYAAAAJ&hl=en"
 ---
 
 # Group members
