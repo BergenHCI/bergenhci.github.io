@@ -2,8 +2,6 @@
 title: Our events
 ---
 
-* TOC
-{:toc}
 
 ## Upcoming Events
 
