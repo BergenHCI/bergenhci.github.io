@@ -41,12 +41,21 @@ The workshop will take place on the **13th of October** (Sunday), 2024.
 
 To attend the workshop, submit a short position paper (no more than 4 pages, excluding references) in the ACM format. The paper should outline your background and a position statement that reflects the ideas, proposals, prototypes, or applications you would like to present and discuss during the workshop. Such contributions may include:
 
-- sketches and prototypes of AI-based tools for design,
-- demonstrations of developed tools,
-- evaluation or trial reports,
-- field studies of the use of AI-based tools,
-- research and design proposals,
+- sketches and prototypes of AI-based tools for design;
+  *For example, a prototype for an AI tool that generates user personas based on minimal input, using ChatGPT to simulate user interviews.*
+- demonstrations of developed tools;
+  *Such as a tool that uses AI to automatically generate wireframes from a brief project description.*
+- evaluation or trial reports;
+  *For instance, comparing an AI-based tool against traditional methods with real user feedback*
+- field studies of the use of AI-based tools;
+  *For example, investigating how designers use AI tools to brainstorm ideas, observing how it influenced the creative process in real-time.*
+- research and design proposals;
+  *An example could be a proposal to develop an AI tool that assists in the ideation phase of design by generating multiple concepts based on initial user requirements provided by ChatGPT.*
 - design cases which could benefit from AI-based tools.
+  *For example, simulating professional video editors with LLM to better understand their context of work and gather design requirements.*
+
+
+
 
 Accepted submissions will be published online on the workshop website.
 
