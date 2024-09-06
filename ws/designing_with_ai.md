@@ -63,7 +63,7 @@ Accepted submissions will be published online on the workshop website.
 
 Send your position paper to the email [designing.with.ai.workshop@gmail.com](mailto:designing.with.ai.workshop@gmail.com?subject=workshop)
 
-**Submission deadline: 9th of September 2024.**
+**Submission deadline: ~~9th~~ 19th of September 2024 (acknowledging the CHI deadline).**
 
 **Notification of acceptance: 30th of September.**
 
