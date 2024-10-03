@@ -30,6 +30,10 @@ members:
       desc: "I'm doing a PhD on collaboration between humans and artificial intelligence. More specifically, I'm looking at how artificial intelligence can assist call handlers during emergency calls with situational awareness, documentation, decisions, and more."
       link: "https://www4.uib.no/finn-ansatte/Arngeir.Berge"
       scholar: "https://scholar.google.com/citations?user=5promGYAAAAJ&hl=en"
+    - name: "Fredrik Håland Jensen"
+      photo: "https://www.uib.no/sites/w3.uib.no/files/styles/content_main/public/media/2020-02-06_12.42.00_0.jpg"
+      desc: "Fredrik Håland Jensen is a PhD candidate at the University of Bergen. His project is related to TekLab, a network for research, education, and innovation within the media and communication sector. He researches media and interaction design, innovation theory, technology theory, innovation pedagogy, emerging technologies, prototypes, and University-Industry collaboration."
+      link: "https://www4.uib.no/finn-ansatte/Fredrik.Håland.Jensen"
 ---
 
 # Group members
