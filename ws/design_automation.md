@@ -9,7 +9,8 @@ The rise of Artificial Intelligence (AI), particularly Large Language Models (LL
 
 We invite researchers, practitioners, and designers to participate in our full-day on-site workshop on design automation. We welcome both original and encore submissions that explore the role of AI in interaction design. Specifically, we are interested in submissions that present AI-based tools for the design process or cases where AI has been applied in interaction design practice. Contributions may include prototypes, applications, and empirical studies leveraging AI for user research, ideation, prototyping, and usability testing, as well as empirical studies on the effectiveness of AI in design workflows.
 
-To participate, please submit an original position paper in the ACM extended abstract format (up to 4 pages long, excluding references), a pictorial (up to 10 pages), or an encore paper (published or in press). The workshop organizers will review the submissions. Accepted submissions will be published on the workshop's website. We expect at least one author of the accepted submission to attend the workshop in person. All participants must register for both the workshop and at least one conference day. 
+To participate, please submit an original position paper in the ACM extended abstract format (up to 4 pages long, excluding references), a pictorial (up to 10 pages), or an encore paper (published or in press). The workshop organizers will review the submissions. Accepted original submissions will be published on the workshop's website and ArXiv with assigned report numbers. For encore submissions, publication will require permission from both the authors and the copyright holders.
+
 
 ## Preliminary schedule
 
