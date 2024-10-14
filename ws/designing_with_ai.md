@@ -20,22 +20,24 @@ We also invite contributions from fields like writing, music composition, video 
 
 We will demonstate our AI tool that employs GPT-4 to translate descriptions of users into design artefacts. The tool embodies our concept of *declarative design*, where designers dictate goals and AI crafts the solutions, marking a shift from direct creation to a more editorial or directorial role of a designer.
 
-## Preliminary schedule
+## Schedule
 
-The workshop will take place on the **13th of October** (Sunday), 2024.
+The workshop took place on the **13th of October** (Sunday), 2024.
 
-* 09:00 - **Workshop Introduction**: Introduction of the workshop’s topic and goal and a short demonstration of the prototype(s) of AI-based tools for interaction design
-* 09:30 - **Participants’ presentations and demos**: Participants present their research and demonstrate their projects or prototypes, as well as design cases.
-* 10:15 - **Morning break**
-* 10:30 - **Ideation, design, and evaluation**: In groups, participants try out the prototypes, providing feedback to assess their functionality, user experience, and evaluate the produced results. For presented design cases, participants can brainstorm and sketch new AI-based tools.
-* 11:30 - **Coffee break**
-* 12:00 - **Discussion**: in a round table format, participants discuss the practicality of the presented tools, their usefulness, and other related topics, such as:
-    - How well do the AI-generated artifacts represent user needs?
-    - How can we use the AI-based tools in a good way, and how we can identify and address the shortcomings and limitations of these tools
-    - What kind of AI-based tools can we develop for designers and other creative workers?
-    - How can we assess LLMs representations of certain groups of users and their needs?
-    *The discussions and the artifacts will serve as data material for a paper co-authored by the workshop participants.*
-* 12:45 - **Workshop ends**
+* 9:00 - **Introduction**
+* 9:15 - **Presentations**
+  - [*Creativity in the Imperfections: GenAI as a Disruptive Inspiration.* Matilda Kalving, Kaisa Väänänen, Thomas Olsson.](/pubs/designing_with_ai/creativity_in_imperfection.pdf)
+  - [*Designing for Visual Thinkers: Overcoming Text-Centric Limitations in GenAI Tools.* Hyerim Park, Malin Eiband.](pubs/designing_with_ai/designing_for_visual_thinkers.pdf)
+  - [*AI Generated Design for a Greener Maritime Sector.* Jo Dugstad Wake, Junyong You, Frode Guribye.](/pubs/designing_with_ai/ai_design_for_maritime_sector.pdf)
+  - [*Blind Spot in Human-centered AI Evaluation.* Willem Van Der Maden & Jichen Zhu.](/pubs/designing_with_ai/blind_spot.pdf)
+* 10:00 - **Coffee Break**
+* 10:30 - **Ideation, Design, and Evaluation**
+  - We present and discussed [Artefactor](http://artefactor.bergenhci.xyz) – a tool for declarative design
+* 11:30 - **Discussion: possible AI applications in Interaction design**
+  - We suggested and discussed ideas of AI applications for different stages of design.
+* 12:00 - **Discussion: future work**
+* 12:30 - **Lunch**
+
 
 ## Participation
 
