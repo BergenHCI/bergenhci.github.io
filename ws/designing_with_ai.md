@@ -32,7 +32,7 @@ The workshop took place on the **13th of October** (Sunday), 2024.
   - [*Blind Spot in Human-centered AI Evaluation.* Willem Van Der Maden & Jichen Zhu.](/pubs/designing_with_ai/blind_spot.pdf)
 * 10:00 - **Coffee Break**
 * 10:30 - **Ideation, Design, and Evaluation**
-  - We present and discussed [Artefactor](http://artefactor.bergenhci.xyz) – a tool for declarative design
+  - We present and discussed [Artefactor](https://github.com/BergenHCI/Artefactor) – a tool for declarative design
 * 11:30 - **Discussion: possible AI applications in Interaction design**
   - We suggested and discussed ideas of AI applications for different stages of design.
 * 12:00 - **Discussion: future work**
