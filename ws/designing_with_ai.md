@@ -27,7 +27,7 @@ The workshop took place on the **13th of October** (Sunday), 2024.
 * 9:00 - **Introduction**
 * 9:15 - **Presentations**
   - [*Creativity in the Imperfections: GenAI as a Disruptive Inspiration.* Matilda Kalving, Kaisa Väänänen, Thomas Olsson.](/pubs/designing_with_ai/creativity_in_imperfection.pdf)
-  - [*Designing for Visual Thinkers: Overcoming Text-Centric Limitations in GenAI Tools.* Hyerim Park, Malin Eiband.](pubs/designing_with_ai/designing_for_visual_thinkers.pdf)
+  - [*Designing for Visual Thinkers: Overcoming Text-Centric Limitations in GenAI Tools.* Hyerim Park, Malin Eiband.](/pubs/designing_with_ai/designing_for_visual_thinkers.pdf)
   - [*AI Generated Design for a Greener Maritime Sector.* Jo Dugstad Wake, Junyong You, Frode Guribye.](/pubs/designing_with_ai/ai_design_for_maritime_sector.pdf)
   - [*Blind Spot in Human-centered AI Evaluation.* Willem Van Der Maden & Jichen Zhu.](/pubs/designing_with_ai/blind_spot.pdf)
 * 10:00 - **Coffee Break**
