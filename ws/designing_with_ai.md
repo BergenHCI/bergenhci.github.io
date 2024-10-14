@@ -5,6 +5,8 @@
 * TOC
 {:toc}
 
+[**Read Extended Abstract**](https://dl.acm.org/doi/abs/10.1145/3677045.3685449)
+
 Can AI replace or augment human capabilities in design? Recently, the claim was made that Large Language Models (LLMs) could work as a *database of human experiences* and be a valuable resource in human-centered design processes. If we take this claim at face value, it would imply that LLMs could be a proxy for human experiences in terms of representing the needs of future users in an interaction design process. Instead of involving human users, we could then have AI-based tools represent the problem space and create the artifacts, such as personas and scenarios, and in this way, replace humans and accounts of their experiences in interaction design. 
 
 In this workshop, we want to put this claim to the test. We will engage critically, playfully, and constructively to explore the limits and potential of using AI-based tools in interaction design.
