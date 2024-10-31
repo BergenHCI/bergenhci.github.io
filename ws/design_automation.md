@@ -14,18 +14,18 @@ To participate, please submit an original position paper in the ACM extended abs
 
 ## Preliminary schedule
 
-9:15 - Introduction of the workshop topic, organizers, participants, and goals.
-9:30 - Keynote presentation
-10:15 - Coffee break
-10:30 - Session 1: AI for Requirements Gathering. In this session, we will discuss the potential of AI to inform the design process by providing adequate requirements. We will explore whether AI tools are capable of accurately representing the needs of various user groups, ensuring that the requirements are inclusive and aligned with diverse user perspectives. We will assign each small group a design case, which they will explore using available AI tools. Participants will use these tools to generate a list of requirements, evaluate the AI-generated outcomes, and reflect on the interaction process -- identifying strengths, weaknesses, and opportunities for improvement.
-12:00 - Lunch break
-13:00 - Session 2: AI for Ideation. This session will explore the potential for AI tools to assist in the ideation process. We will discuss how AI can help propose novel ideas, organize existing concepts, and support creative thinking, enabling designers to overcome creative blocks and expand their solution space. We will run a short brainstorming session with an AI-companion. The participants will be tasked with evaluating contributions made by AI and its role in the process.
-14:15 - Coffee break
-14:30 - Session 3: AI for Prototyping. In this session, we will focus on AI-based prototyping tools and how AI can be used to create mockups of future products, represent design ideas, and generate prototypes suitable for further evaluation and development. Participants will use AI tools to create prototypes (e.g., illustrations, sketches, and diagrams) and assess how well the AI captures design intent.
-16:00 - Coffee break
-16:10 - Session 4: AI for Evaluation. In this session, we will examine AI-based tools that can aid in the evaluation phase of the design process. These tools may include automated evaluation systems or AI models that simulate user behavior to provide feedback. We will discuss the reliability of AI-based evaluation methods and whether they can be trusted to deliver insights comparable to traditional user testing.
-17:15 - Wrap up and further steps
-17:45 - Workshop ends
+- 9:15 - Introduction of the workshop topic, organizers, participants, and goals.
+- 9:30 - Keynote presentation
+- 10:15 - Coffee break
+- 10:30 - Session 1: AI for Requirements Gathering. In this session, we will discuss the potential of AI to inform the design process by providing adequate requirements. We will explore whether AI tools are capable of accurately representing the needs of various user groups, ensuring that the requirements are inclusive and aligned with diverse user perspectives. We will assign each small group a design case, which they will explore using available AI tools. Participants will use these tools to generate a list of requirements, evaluate the AI-generated outcomes, and reflect on the interaction process -- identifying strengths, weaknesses, and opportunities for improvement.
+- 12:00 - Lunch break
+- 13:00 - Session 2: AI for Ideation. This session will explore the potential for AI tools to assist in the ideation process. We will discuss how AI can help propose novel ideas, organize existing concepts, and support creative thinking, enabling designers to overcome creative blocks and expand their solution space. We will run a short brainstorming session with an AI-companion. The participants will be tasked with evaluating contributions made by AI and its role in the process.
+- 14:15 - Coffee break
+- 14:30 - Session 3: AI for Prototyping. In this session, we will focus on AI-based prototyping tools and how AI can be used to create mockups of future products, represent design ideas, and generate prototypes suitable for further evaluation and development. Participants will use AI tools to create prototypes (e.g., illustrations, sketches, and diagrams) and assess how well the AI captures design intent.
+- 16:00 - Coffee break
+- 16:10 - Session 4: AI for Evaluation. In this session, we will examine AI-based tools that can aid in the evaluation phase of the design process. These tools may include automated evaluation systems or AI models that simulate user behavior to provide feedback. We will discuss the reliability of AI-based evaluation methods and whether they can be trusted to deliver insights comparable to traditional user testing.
+- 17:15 - Wrap up and further steps
+- 17:45 - Workshop ends
 
 ## Participation
 
