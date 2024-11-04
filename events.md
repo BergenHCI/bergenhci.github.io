@@ -5,6 +5,14 @@ title: Our events
 
 ## Upcoming Events
 
+No upcoming events right now
+
+## Past Events
+
+### Halfway to the Future (HttF'24) Symposium
+
+Pavel Okopnyi and Frode Guribye presented a paper [Against Generative UI](https://dl.acm.org/doi/10.1145/3686169.3686184), co-authored with Oda Elise Nordberg, at the [Halfway to the Future symposium](https://www.halfwaytothefuture.net/2024/) in Santa Cruz, California. 
+
 ### Workshop: Designing with AI at NordiCHI2024 (13 Oct 2024)
 
 Can AI replace or augment human capabilities in design? Recently, the claim was made that Large Language Models (LLMs) could work as a database of human experiences and be a valuable resource in human-centered design processes. If we take this claim at face value it would imply that LLMs could be a proxy for human experiences in terms of representing the needs of future users in an interaction design process.  In this workshop, we want to put this claim to the test. We will engage critically, playfully and constructively to explore the limits and potential of using AI-based tool in interaction design.
@@ -17,8 +25,6 @@ Can AI replace or augment human capabilities in design? Recently, the claim was 
 Caring for individuals living with dementia can be a challenging and emotionally taxing experience, especially for caregivers who are often spouses or partners. Many caregivers lack prior experience in providing care and would greatly benefit from training and support. With the advancements in AI techniques, human-centered AI interaction approaches have shown promise in enhancing dementia care. As the 1st edition, this workshop focuses on the intersection of human-computer interaction (HCI) and artificial intelligence (AI) to address the unique challenges associated with dementia care. Dementia presents multifaceted cognitive and emotional hurdles, and the workshop aims to explore how AI technologies can improve the quality of life for individuals with dementia while also supporting their caregivers. By bringing together researchers, practitioners, caregivers, and stakeholders, the workshop seeks to foster collaboration and innovation in the design, development, and implementation
 
 [Read More](https://hci.uib.no/ws/haid)
-
-## Past Events
 
 ### Innovative Human-Computer Interaction (HCI): Eight Ways to Advance Interactive Technology
 
