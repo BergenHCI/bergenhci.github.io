@@ -7,7 +7,7 @@ title: Our events
 
 ### Lecture: Applied Mathematics in Human-Computer Interaction
 
-Dr. Arthur Fleig, a Junior Research Group leader from the University of Leipzig, will present his research on scalable HCI design using AI/ML models for simulating human-computer interaction, focusing on Acoustic Levitation, Biomechanical User Simulation, and optimization technology.
+Dr. Arthur Fleig, a Junior Research Group leader from the University of Leipzig, will present his research on scalable HCI design using AI/ML models for simulating human-computer interaction, focusing on Acoustic Levitation, Biomechanical User Simulation and optimization technology.
 
 Days: 17 Dec 2024
 
