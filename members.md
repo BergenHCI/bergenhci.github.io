@@ -34,6 +34,10 @@ members:
       photo: "https://www.uib.no/sites/w3.uib.no/files/styles/content_main/public/media/2020-02-06_12.42.00_0.jpg"
       desc: "Fredrik Håland Jensen is a PhD candidate at the University of Bergen. His project is related to TekLab, a network for research, education, and innovation within the media and communication sector. He researches media and interaction design, innovation theory, technology theory, innovation pedagogy, emerging technologies, prototypes, and University-Industry collaboration."
       link: "https://www4.uib.no/finn-ansatte/Fredrik.Håland.Jensen"
+	- name: "Yuki Onishi"
+	- name: "Yong Ma"
+	- name: "Paulina Becerril Palma"
+	
 ---
 
 # Group members
