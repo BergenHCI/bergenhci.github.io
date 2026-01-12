@@ -9,4 +9,4 @@ The Interaction research group focuses on interaction between information system
 
 We study how technologies, tools and artifacts appear as an integral part of concrete contexts of use and how technologies mediate work, learning and leisure practices. We are interested in how technologies and mediating tools feature in interaction, cooperation and learning, but also how our empirical studies can inform the design and use of information and communication technologies. We study the design and use of ICT in many contexts, such as health, education, gameworlds, and journalism.
 
-[UiB Webpage](https://www.uib.no/en/fg/interaction)
+[UiB Webpage](https://w4.uib.no/en/research/research-groups/human-computer-interaction-hci)
