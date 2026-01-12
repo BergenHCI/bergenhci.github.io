@@ -5,6 +5,27 @@ title: Our events
 
 ## Upcoming Events
 
+### NordiCHI 2026
+
+In October 2026, the NordiCHI conference will take place in Vaasa, Finland.
+
+[Read More](https://sites.uwasa.fi/nordichi2026/)
+
+### RAID Project Kick-off Meeting
+
+In February 2026, the kick-off meeting of the RAID project will take place in Copenhagen, Denmark.
+
+## Past Events
+
+### Bergen HCI Summit 2025
+
+In October 18th – 19th, 2025, Yuki Onishi, Vegard Erlend Bolstad, and Morten Fjeld have organized the Bergen HCI Summit 2025. The event took place at the University of Bergen and Villa Terminus. The event featured a range of speakers from all over the world and sessions, including lightning talks and group discussions.
+
+
+### Halfway to the Future (HttF'24) Symposium
+
+Pavel Okopnyi and Frode Guribye presented a paper [Against Generative UI](https://dl.acm.org/doi/10.1145/3686169.3686184), co-authored with Oda Elise Nordberg, at the [Halfway to the Future symposium](https://www.halfwaytothefuture.net/2024/) in Santa Cruz, California. 
+
 ### Lecture: Applied Mathematics in Human-Computer Interaction
 
 Dr. Arthur Fleig, a Junior Research Group leader from the University of Leipzig, will present his research on scalable HCI design using AI/ML models for simulating human-computer interaction, focusing on Acoustic Levitation, Biomechanical User Simulation and optimization technology.
@@ -12,12 +33,6 @@ Dr. Arthur Fleig, a Junior Research Group leader from the University of Leipzig,
 Days: 17 Dec 2024
 
 [Read More](https://www.uib.no/infomedia/174615/applied-mathematics-human-computer-interaction)
-
-## Past Events
-
-### Halfway to the Future (HttF'24) Symposium
-
-Pavel Okopnyi and Frode Guribye presented a paper [Against Generative UI](https://dl.acm.org/doi/10.1145/3686169.3686184), co-authored with Oda Elise Nordberg, at the [Halfway to the Future symposium](https://www.halfwaytothefuture.net/2024/) in Santa Cruz, California. 
 
 ### Workshop: Designing with AI at NordiCHI2024 (13 Oct 2024)
 
