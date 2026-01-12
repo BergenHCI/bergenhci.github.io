@@ -4,9 +4,21 @@ title: "Projects"
 
 # Current research projects
 
+## RAID - Responsible AI in Interaction Design Practice
+
+Can we trust artificial intelligence (AI) to design the digital services of the future? As AI becomes more powerful and widely adopted, it is beginning to take on tasks traditionally carried out by human designers—especially in the Nordic countries, where design has traditionally been rooted in human needs, values, and social responsibility. 
+
+RAID (Responsible AI in Interaction Design Practice) is a Nordic research collaboration that investigates how AI is transforming the way we design digital services—and how we can ensure that this transformation is responsible, ethical, and aligned with the needs of society. The project brings together leading researchers in Human-Computer Interaction and Human-Centred AI from five universities: the **University of Bergen** (Norway), **Aarhus University** and the **IT University of Copenhagen** (Denmark), **Gothenburg University** (Sweden), and **Tampere University** (Finland). 
+
+AI promises to improve efficiency and productivity, but it also raises important questions. What happens when machines begin to replace human judgment in design? How do we ensure that AI-generated products are usable, inclusive, and fair? What new skills will designers need in the age of AI—and how should we train the next generation? 
+
+RAID explores these questions through empirical research, AI tool development, and educational innovation. The project will examine real-world uses of AI in design, build new AI-based design tools with responsible safeguards, and create teaching approaches that help future designers work with AI in thoughtful and ethical ways. 
+
+By combining insights across borders and disciplines, RAID contributes to a uniquely Nordic approach to AI in design—one that values transparency, human oversight, and public trust. The project supports the Nordic region’s continued leadership in digital innovation while ensuring that AI-enhanced services remain grounded in democratic values and everyday human experience. 
 
 
 # Our software and prototypes
+
 
 ## Simple API Server
 
