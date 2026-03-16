@@ -35,8 +35,20 @@ members:
       desc: "Fredrik Håland Jensen is a PhD candidate at the University of Bergen. His project is related to TekLab, a network for research, education, and innovation within the media and communication sector. He researches media and interaction design, innovation theory, technology theory, innovation pedagogy, emerging technologies, prototypes, and University-Industry collaboration."
       link: "https://www4.uib.no/finn-ansatte/Fredrik.Håland.Jensen"
 	- name: "Yuki Onishi"
+	  photo: "https://mediafutures.no/wp-content/uploads/Yuki-Onishi-2024_square-1.png"
+      desc: "Yuki Onishi is a Researcher in Media Futures WP4 Media Content Interaction & Accessibility. She received BSc in Engineering, MSc and PhD in Information Sciences at Tohoku University, Sendai, Japan."
+      link: "https://mediafutures.no/2025/01/09/yuki-onishi/"
+      scholar: "https://scholar.google.com/citations?hl=en&user=jGfyBq4AAAAJ"
 	- name: "Yong Ma"
+	  photo: ""
+      desc: ""
+      link: "https://www4.uib.no/en/find-employees/yong.ma"
+      scholar: "https://scholar.google.com/citations?user=CPH3qsUAAAAJ"
 	- name: "Paulina Becerril Palma"
+	  photo: "https://profile.uib.no/sites/default/files/styles/profile_image/public/picture/infomedia_27_crop_06_0.JPG.avif?itok=4KQ4wL21"
+      desc: ""
+      link: "https://www4.uib.no/en/find-employees/paulina.becerril-palma"
+      scholar: "https://scholar.google.com/citations?user=IcMJiE4AAAAJ&hl=en"
 	
 ---
 
