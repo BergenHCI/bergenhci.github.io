@@ -49,7 +49,6 @@ members:
       desc: ""
       link: "https://www4.uib.no/en/find-employees/paulina.becerril-palma"
       scholar: "https://scholar.google.com/citations?user=IcMJiE4AAAAJ&hl=en"
-	
 ---
 
 # Group members
